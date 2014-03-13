@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Condensed);
+/*
+*******************************************************************************
+*
+*   style.css
+*
+*******************************************************************************
+*/
+.navbar {
+	border-radius:0;
+	margin-bottom: 0;
+}
+
+.navbar-brand, h1 {
+	font-family: 'Ubuntu Condensed';
+	text-transform: uppercase;	
+}
+
+.navbar-brand {	
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.modal h4{
+	margin: 0 0 10px;
+}
